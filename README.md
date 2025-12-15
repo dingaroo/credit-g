@@ -25,6 +25,6 @@
 | num_dependents           | 1000 non-null  |  float64| Number of people being liable to provide maintenance for. |
 | own_telephone            | 1000 non-null  |  object | Telephone (yes,no)  |
 | foreign_worker           | 1000 non-null  |  object | Foreign worker (yes,no)  | 
-| class                    | 1000 non-null  |  object | Whether applicant is a good or bad credit risk. 'good' indicates low risk, 'bad' indicates high risk. |
+| class                    | 1000 non-null  |  object | Whether applicant is a good or bad credit risk. 'good' indicates low risk, 'bad' indicates high risk. **Target Variable** |
 
 
