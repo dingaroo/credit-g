@@ -1,5 +1,6 @@
 # German Credit Classification Dataset
 
+This is a data from a German Bank dating from the 1990s. It tracked customers of a finan
 
 ## Data Dictionary
 
@@ -27,4 +28,12 @@
 | foreign_worker           | 1000 non-null  |  object | Foreign worker (yes,no)  | 
 | class                    | 1000 non-null  |  object | Whether applicant is a good or bad credit risk. 'good' indicates low risk, 'bad' indicates high risk. **Target Variable**       |
 
+## Initial Analysis
 
+1. The dataset has 1,000 rows and 21 columns.
+
+2. There are no duplicates nor any missing/empty values in the dataset.
+
+3. The target variable, `class` has a ratio of 7:3 of good againstr bad creditors.
+
+4. 
